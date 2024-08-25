@@ -30,7 +30,7 @@ const Grid = () => {
           <div className="text-lg leading-relaxed text-white-800">
             <h2 className="text-3xl font-bold mb-4">About Me</h2>
             <p className="mb-4">
-              Hello! I'm Divyansh Saxena, from Kanpur, sometimes referred as the Manchester of the East.
+              Hello! I&apos;m Divyansh Saxena, from Kanpur, sometimes referred as the Manchester of the East.
             </p>
             <p className="mb-4">
               I am a creative, punctual, dedicated, and goal-oriented individual with decent moral values and ethics, along with a high energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
