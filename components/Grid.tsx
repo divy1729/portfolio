@@ -57,7 +57,7 @@ const Grid = () => {
         </div>
         <div className="w-full md:w-1/3 pl-4">
           <Image
-            src="/divyansh_image.jpg"
+            src="/myimage.svg"
             alt="Divyansh Saxena"
             className="rounded-3xl block w-full h-full object-fit object-cover shadow-md hover:shadow-lg hover:grayscale hover:contrast-125 transition duration-300 ease-in-out"
           /><br />
